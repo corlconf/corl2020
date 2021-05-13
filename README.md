@@ -1,1 +1,1 @@
-# corl2020
+# CoRL Paper Explorer
